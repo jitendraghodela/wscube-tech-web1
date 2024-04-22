@@ -13,9 +13,7 @@ Welcome to the wscube tech website 1st project! This project aims to create a dy
 ## Technologies Used
 
 - HTML5, CSS3, and JavaScript for front-end development.
-- Bootstrap framework for responsive design.
-- Node.js and Express.js for server-side development.
-- MongoDB for database management.
+
 
 ## Installation
 
